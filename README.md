@@ -4,7 +4,7 @@
 
 This repository contains jupyter notebooks to reproduce the results and figures from treeArches. treeArches is a framework around two existing methods: [scArches](https://github.com/theislab/scarches) and [scHPL](https://github.com/lcmmichielsen/scHPL). 
 
-If you want to reproduce the complete results, you will have to install scArches and scHPL. If you just want to reproduce the figures, you can download the latent spaces we created from Zenodo (add link). 
+If you want to reproduce the complete results, you will have to install scArches and scHPL. If you just want to reproduce the figures, you can download the latent spaces we created from [Zenodo](https://doi.org/10.5281/zenodo.6786357). 
 
 ### Installation & documentation
 
