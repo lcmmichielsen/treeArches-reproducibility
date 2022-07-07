@@ -1,4 +1,4 @@
-# treeArches - automatically creating and updating reference atlases
+# treeArches - Single-cell reference mapping to construct and extend cell type hierarchies
 
 <img width="750px" align="center" src="/sketch/Sketch.png?raw=true">
 
