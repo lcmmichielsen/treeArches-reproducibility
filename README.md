@@ -12,4 +12,8 @@ treeArches is automatically installed when installing scArches. Check this [link
 
 Documentation and tutorials can be found in the [scArches documentation](https://scarches.readthedocs.io/en/latest/index.html) and the [scHPL github](https://github.com/lcmmichielsen/scHPL). The [PBMC](Figure1%20(PBMC)/PBMC%20(Figure%201%2C%20S1%2C%20S2).ipynb) reproducibility notebook is also a vignette that guides you through the possible functionalities.
 
+### Citation
+For citation and further information please refer to the bioRxiv preprint: https://doi.org/10.1101/2022.07.07.499109
+
+
 
